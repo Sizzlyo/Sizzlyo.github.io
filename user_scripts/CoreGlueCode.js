@@ -68,6 +68,7 @@ var games = {
     "pacman_world2":"Pacman World 2",
     "pokemonflorasky":"Pokemon Flora Sky Rom Hack",
     "pokemonemerald":"Pokemon Emerald",
+    "pokemonek":"Pokemon Emerald (Kaizo)",
     "pokemongreen":"Pokemon Leaf Green",
     "mysteryred":"Pokemon Mystery Dungeon Red",
     "pokemonruby":"Pokemon Ruby",
