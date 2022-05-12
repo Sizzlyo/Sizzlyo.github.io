@@ -75,6 +75,7 @@ var games = {
     "pokemonemerald":"Pokemon Emerald",
     "pokemongreen":"Pokemon Leaf Green",
     "mysteryred":"Pokemon Mystery Dungeon Red",
+    "prs":"Pokemon Rocket Strike",
     "pokemonruby":"Pokemon Ruby",
     "pokemonsapphire":"Pokemon Sapphire",
     "pokemonred":"Pokemon Fire Red",
